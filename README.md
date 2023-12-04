@@ -1,2 +1,2 @@
 # pydb-delta3
-Latest, all working links + functionality
+Latest, core files for feedback
